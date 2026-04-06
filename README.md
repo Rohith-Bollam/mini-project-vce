@@ -31,7 +31,7 @@ Developed using Bootstrap for compatibility across devices.
 
 
 Travel-Route-Planner/
-│── index.html
+│── dupllicate.html
 │── heatmap.html
 │── locations.js
 │── density.js
