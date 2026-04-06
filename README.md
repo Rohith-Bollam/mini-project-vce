@@ -21,11 +21,14 @@ Embedded weather widget to provide environmental context for travel decisions.
 Embedded video content to enhance user engagement and understanding of locations.
 	•	Responsive User Interface
 Developed using Bootstrap for compatibility across devices.
+
+
 🔗 External Integrations
 	•	Wikipedia API – Dynamic content retrieval
 	•	Google Maps – Navigation and route guidance
 	•	Weather API (Widget) – Real-time weather updates
 	•	YouTube Embed – Informational video content
+
 
 Travel-Route-Planner/
 │── index.html
@@ -36,17 +39,22 @@ Travel-Route-Planner/
 │── images/
 │── fortsimages/
 
+
 🔮 Future Scope
 	•	Integration of real-time traffic and crowd data via APIs
 	•	User authentication and personalized recommendations
 	•	Advanced route optimization algorithms
 	•	Mobile application version
+
+
+
 👨‍💻 Contribution / Role
 	•	Designed and developed responsive UI using HTML, CSS, and Bootstrap
 	•	Implemented dynamic search using API integration
 	•	Integrated third-party services (Maps, Weather, Multimedia)
 	•	Developed heatmap-based data visualization using Leaflet.js
 	•	Ensured performance, usability, and cross-device compatibility
+	
 📌 Conclusion
 
 This project demonstrates the effective integration of web technologies, APIs, and visualization tools to build a scalable and user-friendly travel planning solution. It highlights practical implementation of frontend development, real-time data handling, and geographic data representation
